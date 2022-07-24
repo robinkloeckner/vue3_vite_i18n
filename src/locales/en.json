@@ -1,0 +1,4 @@
+{
+  "title": "You did it!",
+  "description": "You’ve successfully created a project with\n<a target=\"_blank\" href=\"{viteRef}\">Vite</a> +\n<a target=\"_blank\" href=\"{vueRef}\">Vue 3</a>."
+}
